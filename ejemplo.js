@@ -1,1 +1,3 @@
-var num = 2;
+function saludo(){
+    alert("Hola perritos");
+}
